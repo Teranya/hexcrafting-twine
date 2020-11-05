@@ -1,6 +1,6 @@
 # Hexcrawling
 
-Hexcrawling is simplified Twine version of *Hexcrawling Alone in the Wilderness by [Azukail Games](https://azukailgames.itch.io/hexcrawling-alone-in-the-wilderness).
+Hexcrawling is simplified Twine version of *Hexcrawling Alone in the Wilderness* by [Azukail Games](https://azukailgames.itch.io/hexcrawling-alone-in-the-wilderness).
 
 The game can be accesss [here](https://teranya.github.io/hexcrawling/)
 
